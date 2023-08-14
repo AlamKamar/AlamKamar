@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sk Shamshul Alam Kamar
+- 👋 Hi, I’m @Kamar, Sk Shamshul Alam
 - 👀 I’m interested in MixSIAR Model
 - 🌱 I’m currently learning R to use MixSIAR Model
 - 💞️ I’m looking to collaborate on Isotopic Analysis
